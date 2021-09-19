@@ -1,0 +1,4 @@
+jose; 23
+José; 35
+Gustavo; 41
+Maria; 85
